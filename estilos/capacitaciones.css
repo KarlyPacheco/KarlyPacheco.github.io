@@ -1,0 +1,85 @@
+h1{
+    color: lightblue;
+    background-color: darkgreen;
+    text-align: center;
+    font-family: serif;
+    font-size: 2.5em;
+    font-style: oblique;
+    font-weight: bolder;
+}
+h2{
+    color: darkseagreen;
+    text-align: left;
+    font-family: fantasy;
+    font-size: 2em;
+    font-style: normal;
+    font-weight: lighter;
+}
+h3{
+    text-align: left;
+    font-family: serif;
+    font-size: 2em;
+    font-style: italic;
+    font-weight: 30%; 
+}
+P{
+    text-align: justify-all;
+    font-size: 2em;
+    color: darkslateblue;
+}
+caption{
+    text-align: center;
+    color: #D1FF33;
+    font-family:monospace;
+    font-size: 3em;
+    font-style: initial;
+    font-weight: bold;
+}
+#capacitacion{
+    color: #3396FF;
+}
+#tema1{
+    color: #145A32;
+}
+#tema2{
+    color: #2E86C1;
+}
+#tema3{
+    color: #839192;
+}
+#tema4{
+    color: brown;
+}
+#tema5{
+    color: darkgoldenrod;
+}
+#imagen1{
+    border: dashed;
+    border-color: cyan;
+    float: left;
+    padding: 1%
+}
+#imagen2{
+    border: dashed;
+    border-color: cyan;
+    float: left;
+    padding: 1%;
+}
+#imagen3{
+    border: dashed;
+    border-color: cyan;
+    padding: 1%;
+    width: 80%;
+}
+#imagen4{
+    border: dashed;
+    border-color: cyan;
+    float: left;
+    padding: 1%
+}
+#imagen5{
+    border: dashed;
+    border-color: cyan;
+    padding: 1%;
+    float: right;
+}
